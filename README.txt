@@ -1,32 +1,21 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome to My Data Science Portfolio!
 
+## About Me
+I am a Data Scientist with a passion for connecting the dots between ideas from different disciplines, people from different teams, and applications from various industries. With a strong technical background and academic expertise in Engineering, Statistics, and Machine Learning, I excel in leveraging analytical thinking and creative problem-solving skills to their fullest potential.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Interests
+My interests span across various domains within data science, including:
+- Machine Learning & Artificial Intelligence
+- Algorithms in Classification, Regression, Clustering, and Anomaly Detection
+- Neural Networks and Optimization
+- Large-scale Systems
+- Natural Language Processing
+- Big Data
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## View My Work
+You can explore my projects and contributions on my GitHub profile: [GitHub](https://github.com/srkcheema)
 
-(* = not included)
+## Contact Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srkcheema/) or shoot me an email at srk.soh7@gmail.com. I'm always open to discussing opportunities and collaborations!
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Let's chat about how I can help your team tackle challenging problems and drive innovation through data science!
